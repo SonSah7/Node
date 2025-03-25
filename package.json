@@ -5,7 +5,8 @@
   "main": "Task1.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node Task1.mjs"
+    "start": "node Task1.mjs",
+    "task2": "node Task2.mjs"
   },
   "keywords": [],
   "author": "",
